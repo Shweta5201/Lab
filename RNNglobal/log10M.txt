@@ -1,0 +1,485 @@
+Rating matrix file path : [data10M/rating_matrix.txt]
+Training data file : [data10M/train.data]
+Testing data file : [data10M/test.data]
+Model configuration:
+{'num_users': 69878, 'lr': 0.01, 'num_units': 256, 'rho': 0.9, 'chunk_size': 100, 'num_items': 10677, 'k': 10, 'cell_act': 'tanh', 'batch_size': 1}
+Training loss: 14521.1724384
+Training loss: 27461.738488
+Training loss: 40599.9876738
+Training loss: 53793.6178905
+Training loss: 66982.2548096
+Training loss: 87770.3099171
+Training loss: 106782.538792
+Training loss: 125358.504308
+Training loss: 143943.202507
+Training loss: 162242.515811
+Validation loss: 1960.84172213
+Validation loss: 4004.31108117
+Validation loss: 6059.91960669
+Validation loss: 8162.66923714
+Validation loss: 10255.1271359
+Validation loss: 12282.5132836
+Validation loss: 14281.8302041
+Validation loss: 16277.2743652
+Validation loss: 18275.1187109
+Validation loss: 20257.9331992
+Epoch 1: Training error 162242.515811
+Epoch 1: Test error 20257.9331992
+Epoch 1: Training RMSE 2.35786680411
+Epoch 1: Test RMSE 2.2692877157
+Training loss: 12444.0622866
+Training loss: 25145.47639
+Training loss: 38237.7910211
+Training loss: 51424.0258709
+Training loss: 64611.4212446
+Training loss: 83708.0386133
+Training loss: 102353.462653
+Training loss: 120916.295652
+Training loss: 139505.304724
+Training loss: 157810.697654
+Validation loss: 1954.93796754
+Validation loss: 4001.9798677
+Validation loss: 6058.23496163
+Validation loss: 8163.25675404
+Validation loss: 10257.0576391
+Validation loss: 12286.1491489
+Validation loss: 14287.1115693
+Validation loss: 16284.1071484
+Validation loss: 18283.1205609
+Validation loss: 20267.0423337
+Epoch 2: Training error 157810.697654
+Epoch 2: Test error 20267.0423337
+Epoch 2: Training RMSE 2.31877113229
+Epoch 2: Test RMSE 2.26099367177
+Training loss: 12382.0225096
+Training loss: 25075.601433
+Training loss: 38155.8303486
+Training loss: 51329.0170234
+Training loss: 64505.4118224
+Training loss: 83513.7014561
+Training loss: 102199.658663
+Training loss: 120781.852264
+Training loss: 139382.093632
+Training loss: 157697.891972
+Validation loss: 1951.2152797
+Validation loss: 4001.60015213
+Validation loss: 6061.03792262
+Validation loss: 8169.39422703
+Validation loss: 10266.4546994
+Validation loss: 12296.8298542
+Validation loss: 14299.6515192
+Validation loss: 16298.3646436
+Validation loss: 18298.4841653
+Validation loss: 20283.7824069
+Epoch 3: Training error 157697.891972
+Epoch 3: Test error 20283.7824069
+Epoch 3: Training RMSE 2.31419955068
+Epoch 3: Test RMSE 2.25311530056
+Training loss: 12361.102506
+Training loss: 25044.7119788
+Training loss: 38114.8064114
+Training loss: 51277.1554744
+Training loss: 64443.4098099
+Training loss: 83311.9086782
+Training loss: 102045.822214
+Training loss: 120655.851886
+Training loss: 139275.686206
+Training loss: 157608.166495
+Validation loss: 1946.45547712
+Validation loss: 3998.69373453
+Validation loss: 6061.43725777
+Validation loss: 8170.43912137
+Validation loss: 10271.2704967
+Validation loss: 12303.0286597
+Validation loss: 14307.7426357
+Validation loss: 16308.184556
+Validation loss: 18309.702186
+Validation loss: 20296.6280595
+Epoch 4: Training error 157608.166495
+Epoch 4: Test error 20296.6280595
+Epoch 4: Training RMSE 2.31208333405
+Epoch 4: Test RMSE 2.24911162722
+Training loss: 12324.8466161
+Training loss: 25000.801109
+Training loss: 38059.0574228
+Training loss: 51211.1809095
+Training loss: 64368.8501782
+Training loss: 83197.4970928
+Training loss: 101983.006144
+Training loss: 120623.444412
+Training loss: 139263.5162
+Training loss: 157613.418393
+Validation loss: 1939.95178401
+Validation loss: 3991.82579243
+Validation loss: 6053.27799225
+Validation loss: 8160.60925007
+Validation loss: 10262.9221791
+Validation loss: 12296.3646973
+Validation loss: 14303.1436304
+Validation loss: 16305.5425569
+Validation loss: 18309.1235626
+Validation loss: 20298.0949885
+Epoch 5: Training error 157613.418393
+Epoch 5: Test error 20298.0949885
+Epoch 5: Training RMSE 2.31159463472
+Epoch 5: Test RMSE 2.24572316165
+Training loss: 12288.0165093
+Training loss: 24953.2657523
+Training loss: 38001.2368756
+Training loss: 51145.3370591
+Training loss: 64296.0218107
+Training loss: 83166.8993134
+Training loss: 101977.854537
+Training loss: 120627.71788
+Training loss: 139273.012797
+Training loss: 157628.773749
+Validation loss: 1931.54684794
+Validation loss: 3982.30147648
+Validation loss: 6039.93380141
+Validation loss: 8148.79901969
+Validation loss: 10251.633019
+Validation loss: 12285.7969142
+Validation loss: 14293.2463793
+Validation loss: 16296.5391122
+Validation loss: 18301.1015772
+Validation loss: 20290.9889901
+Epoch 6: Training error 157628.773749
+Epoch 6: Test error 20290.9889901
+Epoch 6: Training RMSE 2.31192318387
+Epoch 6: Test RMSE 2.24565474093
+Training loss: 12256.6434004
+Training loss: 24911.1252167
+Training loss: 37949.7933974
+Training loss: 51086.8775746
+Training loss: 64230.2832544
+Training loss: 83250.7369856
+Training loss: 102141.611166
+Training loss: 120789.322913
+Training loss: 139427.988859
+Training loss: 157776.044501
+Validation loss: 1932.68662405
+Validation loss: 3980.69915509
+Validation loss: 6033.58416724
+Validation loss: 8144.25021315
+Validation loss: 10244.6536812
+Validation loss: 12278.4242053
+Validation loss: 14285.014115
+Validation loss: 16287.9716088
+Validation loss: 18292.2039543
+Validation loss: 20281.5522646
+Epoch 7: Training error 157776.044501
+Epoch 7: Test error 20281.5522646
+Epoch 7: Training RMSE 2.31353798789
+Epoch 7: Test RMSE 2.24692018684
+Training loss: 12244.7551807
+Training loss: 24889.4708543
+Training loss: 37919.1283039
+Training loss: 51047.887376
+Training loss: 64183.4977884
+Training loss: 83417.1069814
+Training loss: 102500.328019
+Training loss: 121167.879263
+Training loss: 139814.676443
+Training loss: 158162.017993
+Validation loss: 1935.61010277
+Validation loss: 3982.55936611
+Validation loss: 6032.78158939
+Validation loss: 8145.91182876
+Validation loss: 10243.9773061
+Validation loss: 12278.2083328
+Validation loss: 14284.8511524
+Validation loss: 16288.4894131
+Validation loss: 18293.5071203
+Validation loss: 20283.3931663
+Epoch 8: Training error 158162.017993
+Epoch 8: Test error 20283.3931663
+Epoch 8: Training RMSE 2.31476753695
+Epoch 8: Test RMSE 2.24556686422
+Training loss: 12241.2830415
+Training loss: 24878.54225
+Training loss: 37900.1604904
+Training loss: 51020.7895565
+Training loss: 64149.1521304
+Training loss: 83661.9623972
+Training loss: 102807.100114
+Training loss: 121499.372026
+Training loss: 140161.580736
+Training loss: 158514.776636
+Validation loss: 1938.13266778
+Validation loss: 3988.30187786
+Validation loss: 6044.47074974
+Validation loss: 8161.8579253
+Validation loss: 10264.069883
+Validation loss: 12300.2536689
+Validation loss: 14307.9291629
+Validation loss: 16313.1049384
+Validation loss: 18319.4790467
+Validation loss: 20310.7934754
+Epoch 9: Training error 158514.776636
+Epoch 9: Test error 20310.7934754
+Epoch 9: Training RMSE 2.30987072788
+Epoch 9: Test RMSE 2.24194706702
+Training loss: 12231.5250271
+Training loss: 24860.1999555
+Training loss: 37874.374872
+Training loss: 50987.6864477
+Training loss: 64109.1756449
+Training loss: 82863.92522
+Training loss: 101789.282894
+Training loss: 120457.001983
+Training loss: 139112.329952
+Training loss: 157461.937392
+Validation loss: 1942.44361389
+Validation loss: 3993.2594347
+Validation loss: 6054.38042045
+Validation loss: 8171.73100865
+Validation loss: 10278.4449786
+Validation loss: 12315.6619132
+Validation loss: 14324.1481183
+Validation loss: 16330.2908418
+Validation loss: 18337.0911026
+Validation loss: 20328.9433919
+Epoch 10: Training error 157461.937392
+Epoch 10: Test error 20328.9433919
+Epoch 10: Training RMSE 2.30373504931
+Epoch 10: Test RMSE 2.24100171309
+Training loss: 12219.0956112
+Training loss: 24839.2672219
+Training loss: 37845.8265162
+Training loss: 50952.2113899
+Training loss: 64066.2765148
+Training loss: 82551.1990837
+Training loss: 101437.778417
+Training loss: 120109.306196
+Training loss: 138769.841705
+Training loss: 157126.491797
+Validation loss: 1941.64279282
+Validation loss: 3989.01215219
+Validation loss: 6048.27434611
+Validation loss: 8160.15874541
+Validation loss: 10265.175558
+Validation loss: 12303.796806
+Validation loss: 14314.2444289
+Validation loss: 16322.3016967
+Validation loss: 18330.6956096
+Validation loss: 20324.1695265
+Epoch 11: Training error 157126.491797
+Epoch 11: Test error 20324.1695265
+Epoch 11: Training RMSE 2.30308540515
+Epoch 11: Test RMSE 2.24105391958
+Training loss: 12201.3447104
+Training loss: 24814.2978413
+Training loss: 37812.5452291
+Training loss: 50910.5056859
+Training loss: 64015.4355049
+Training loss: 82474.1055036
+Training loss: 101385.238482
+Training loss: 120085.851313
+Training loss: 138768.534878
+Training loss: 157138.415519
+Validation loss: 1942.04449069
+Validation loss: 3989.24404871
+Validation loss: 6047.33825326
+Validation loss: 8159.68890524
+Validation loss: 10265.1170555
+Validation loss: 12306.0421877
+Validation loss: 14318.783491
+Validation loss: 16329.1341617
+Validation loss: 18340.1540602
+Validation loss: 20336.0523161
+Epoch 12: Training error 157138.415519
+Epoch 12: Test error 20336.0523161
+Epoch 12: Training RMSE 2.30328930052
+Epoch 12: Test RMSE 2.23891043708
+Training loss: 12179.6183361
+Training loss: 24784.9453591
+Training loss: 37774.9890398
+Training loss: 50863.264224
+Training loss: 63958.8173351
+Training loss: 82344.5971245
+Training loss: 101239.884311
+Training loss: 119949.535753
+Training loss: 138641.976365
+Training loss: 157014.710115
+Validation loss: 1941.60426497
+Validation loss: 3992.44091821
+Validation loss: 6055.92144883
+Validation loss: 8172.56615365
+Validation loss: 10280.6589011
+Validation loss: 12323.4153033
+Validation loss: 14337.4005148
+Validation loss: 16348.667109
+Validation loss: 18361.3316083
+Validation loss: 20358.8971691
+Epoch 13: Training error 157014.710115
+Epoch 13: Test error 20358.8971691
+Epoch 13: Training RMSE 2.30424879128
+Epoch 13: Test RMSE 2.23705963539
+Training loss: 12169.9327057
+Training loss: 24768.1477342
+Training loss: 37748.4782434
+Training loss: 50825.845042
+Training loss: 63910.9535971
+Training loss: 82311.0966766
+Training loss: 101172.703729
+Training loss: 119873.205855
+Training loss: 138567.554802
+Training loss: 156942.950284
+Validation loss: 1946.93447459
+Validation loss: 4003.14942467
+Validation loss: 6074.07485104
+Validation loss: 8198.76409459
+Validation loss: 10312.6614342
+Validation loss: 12357.2350706
+Validation loss: 14372.6072253
+Validation loss: 16385.1397902
+Validation loss: 18399.6134309
+Validation loss: 20399.1044391
+Epoch 14: Training error 156942.950284
+Epoch 14: Test error 20399.1044391
+Epoch 14: Training RMSE 2.30317765093
+Epoch 14: Test RMSE 2.23423212647
+Training loss: 12167.6185114
+Training loss: 24758.1324586
+Training loss: 37728.5002316
+Training loss: 50795.1882221
+Training loss: 63869.7074174
+Training loss: 82325.0348616
+Training loss: 101156.197635
+Training loss: 119832.093781
+Training loss: 138508.806289
+Training loss: 156873.239364
+Validation loss: 1952.55375671
+Validation loss: 4011.47362006
+Validation loss: 6086.4330802
+Validation loss: 8217.17202652
+Validation loss: 10334.8754352
+Validation loss: 12378.8300989
+Validation loss: 14393.629143
+Validation loss: 16405.2031871
+Validation loss: 18418.8399823
+Validation loss: 20418.171741
+Epoch 15: Training error 156873.239364
+Epoch 15: Test error 20418.171741
+Epoch 15: Training RMSE 2.30040635109
+Epoch 15: Test RMSE 2.23233763308
+Training loss: 12153.9790291
+Training loss: 24737.2216934
+Training loss: 37698.4431175
+Training loss: 50755.8545096
+Training loss: 63821.2734661
+Training loss: 82300.0386307
+Training loss: 101135.753178
+Training loss: 119798.654557
+Training loss: 138463.006679
+Training loss: 156817.123381
+Validation loss: 1966.22681904
+Validation loss: 4031.07425022
+Validation loss: 6111.77493906
+Validation loss: 8248.32663918
+Validation loss: 10369.0043383
+Validation loss: 12411.8523186
+Validation loss: 14425.7835333
+Validation loss: 16436.3619417
+Validation loss: 18448.827855
+Validation loss: 20447.5752965
+Epoch 16: Training error 156817.123381
+Epoch 16: Test error 20447.5752965
+Epoch 16: Training RMSE 2.29850219424
+Epoch 16: Test RMSE 2.22924331528
+Training loss: 12140.107807
+Training loss: 24716.4068567
+Training loss: 37668.2769
+Training loss: 50716.5241416
+Training loss: 63772.0458322
+Training loss: 82176.9373781
+Training loss: 101035.944057
+Training loss: 119703.709212
+Training loss: 138370.732584
+Training loss: 156725.629361
+Validation loss: 1981.94029224
+Validation loss: 4054.25052559
+Validation loss: 6140.81084895
+Validation loss: 8282.17872083
+Validation loss: 10405.8509865
+Validation loss: 12449.1061665
+Validation loss: 14463.9330692
+Validation loss: 16475.4030136
+Validation loss: 18488.5415734
+Validation loss: 20488.2989696
+Epoch 17: Training error 156725.629361
+Epoch 17: Test error 20488.2989696
+Epoch 17: Training RMSE 2.29788229247
+Epoch 17: Test RMSE 2.22687065617
+Training loss: 12127.3638281
+Training loss: 24696.4745604
+Training loss: 37637.9942686
+Training loss: 50675.7909921
+Training loss: 63719.7941832
+Training loss: 81976.2870533
+Training loss: 100810.370996
+Training loss: 119455.862077
+Training loss: 138100.28823
+Training loss: 156436.191459
+Validation loss: 1986.68353069
+Validation loss: 4065.06893802
+Validation loss: 6155.16673779
+Validation loss: 8297.42038941
+Validation loss: 10422.4329311
+Validation loss: 12464.0119195
+Validation loss: 14477.8576859
+Validation loss: 16488.3978834
+Validation loss: 18500.627941
+Validation loss: 20498.9752778
+Epoch 18: Training error 156436.191459
+Epoch 18: Test error 20498.9752778
+Epoch 18: Training RMSE 2.296040568
+Epoch 18: Test RMSE 2.22569443283
+Training loss: 12121.3493362
+Training loss: 24679.8708388
+Training loss: 37610.2992557
+Training loss: 50636.1564971
+Training loss: 63668.914965
+Training loss: 82053.7213887
+Training loss: 100888.157519
+Training loss: 119537.090184
+Training loss: 138178.630157
+Training loss: 156511.941511
+Validation loss: 1989.59677529
+Validation loss: 4074.388587
+Validation loss: 6167.06941569
+Validation loss: 8310.29809844
+Validation loss: 10438.2187052
+Validation loss: 12479.3532709
+Validation loss: 14493.1928595
+Validation loss: 16503.6957546
+Validation loss: 18516.1064113
+Validation loss: 20514.0603908
+Epoch 19: Training error 156511.941511
+Epoch 19: Test error 20514.0603908
+Epoch 19: Training RMSE 2.29577137649
+Epoch 19: Test RMSE 2.22405999564
+Training loss: 12119.7233248
+Training loss: 24671.3740724
+Training loss: 37590.8620576
+Training loss: 50604.9094432
+Training loss: 63627.0212893
+Training loss: 82068.8796738
+Training loss: 100938.030393
+Training loss: 119621.495745
+Training loss: 138290.686239
+Training loss: 156647.211775
+Validation loss: 2000.22867644
+Validation loss: 4093.03901637
+Validation loss: 6190.86915207
+Validation loss: 8340.25000048
+Validation loss: 10473.6522888
+Validation loss: 12518.258269
+Validation loss: 14535.8451428
+Validation loss: 16550.0374185
+Validation loss: 18566.326041
+Validation loss: 20568.1876558
+Epoch 20: Training error 156647.211775
+Epoch 20: Test error 20568.1876558
+Epoch 20: Training RMSE 2.29552411817
+Epoch 20: Test RMSE 2.22231499987
